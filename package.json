@@ -7,5 +7,5 @@
   "repository": { "type": "git", "url": "git://github.com/joshaven/string_score.git" },
   "dependencies": {},
   "devDependencies": {},
-  "main": "string_score.js"
+  "main": "string_score.module.js"
 }
